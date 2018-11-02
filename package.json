@@ -1,0 +1,8 @@
+{
+  "name": "haens-ui",
+  "version": "1.0.0",
+  "description": "Haens UI elements",
+  "main": "index.ts",
+  "author": "Mit Koevoets",
+  "license": "MIT"
+}
